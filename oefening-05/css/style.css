@@ -1,0 +1,39 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    margin: 0;
+}
+
+.container {
+    width: 800px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-blok {
+    background-color: teal; 
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+
+.sub-header-blok {
+    background-color: deeppink;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.content {
+    border: 1px solid #ccc;
+    padding: 20px;
+    line-height: 1.5;
+}
